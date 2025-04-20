@@ -1,7 +1,13 @@
 ---
 title: Let Freedom Reign Foundation
 layout: default
+<p align="center">
+  <img src="/lfrf-mock/assets/lfrf_logo-rebalance.png" alt="LFRF Logo" width="200"/>
+</p>
 ---
+<p align="center">
+  <img src="/lfrf-mock/assets/lfrf_logo-rebalance.png" alt="LFRF Logo" width="200"/>
+</p>
 
 # Let Freedom Reign Foundation
 
