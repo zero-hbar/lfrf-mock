@@ -6,7 +6,9 @@ layout: default
   <img src="/lfrf-mock/assets/Graphics/lfrf_logo-rebalance.png" alt="LFRF Logo" width="200"/>
 </p>
 
-<p align="center"><strong>Providing Funds to Help Those Unable to Afford Mental Health Services</strong></p>
+<p style="text-align: center; font-size: 2em; font-family: 'Barlow'; font-weight: 700; font-style: italic;">
+  Providing Funds to Help Those Unable to Afford Mental Health Services
+</p>
 
 **Mental health support should never be limited by cost.**  
 This site is the home of a mission to fund mental health services for those who cannot afford them — beginning in Oklahoma, reaching beyond.
