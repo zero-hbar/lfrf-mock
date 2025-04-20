@@ -1,7 +1,6 @@
 ---
 title: Let Freedom Reign Foundation
 layout: default
-permalink: /lfrf/
 ---
 
 # Let Freedom Reign Foundation
@@ -12,6 +11,7 @@ This site is the home of a mission to fund mental health services for those who 
 ---
 
 ## Who We Are
+
 We are a network of professionals, community advocates, and survivors who believe in creating access to behavioral health services without financial barriers.
 
 Let Freedom Reign Foundation is a for-purpose initiative aimed at eliminating affordability as an obstacle to mental wellness.
@@ -19,25 +19,23 @@ Let Freedom Reign Foundation is a for-purpose initiative aimed at eliminating af
 ---
 
 ## How We Help
-- We raise funds for direct care services
-- We partner with CARF-accredited clinics
-- We advocate for underinsured and uninsured individuals
+
+- We raise funds for direct care services  
+- We partner with CARF-accredited clinics  
+- We advocate for underinsured and uninsured individuals  
 
 > "Freedom is the ability to ask for help — and be heard."
 
 ---
 
 ## How You Can Support
-- [ ] Donate via PayPal (embed link or button)
-- [ ] Share our mission on social media
-- [ ] Nominate a clinic to receive funds
+
+- [ ] Donate via PayPal (embed link or button)  
+- [ ] Share our mission on social media  
+- [ ] Nominate a clinic to receive funds  
 
 ---
 
 ## Get In Touch
-Use our [Contact Page](/lfrf/contact) to reach us. We welcome questions, collaborations, and stories.
 
----
-
-*This is a working draft. Layout and language subject to refinement.*
-
+Use our [Contact Page](/lfrf-mock/contact) to reach us. We welcome questions, collaborations, and stories.
