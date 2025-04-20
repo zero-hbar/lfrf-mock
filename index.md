@@ -3,7 +3,7 @@ title: Let Freedom Reign Foundation
 layout: default
 ---
 <p align="center">
-  <img src="/lfrf-mock/assets/lfrf_logo-rebalance.png" alt="LFRF Logo" width="200"/>
+  <img src="/lfrf-mock/assets/Graphics/lfrf_logo-rebalance.png" alt="LFRF Logo" width="200"/>
 </p>
 
 <p align="center"><strong>Providing Funds to Help Those Unable to Afford Mental Health Services</strong></p>
