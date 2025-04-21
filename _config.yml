@@ -1,6 +1,6 @@
 title: Let Freedom Reign Foundation
 baseurl: "/lfrf-mock"
 url: "https://worthlessendeavor.com"
-theme: minima
+theme:
 permalink: pretty
 markdown: kramdown
