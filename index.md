@@ -14,8 +14,8 @@ layout: default
 
 ---
 
-**Mental health support should never be limited by cost.**  
-This site is the home of a mission to fund mental health services for those who cannot afford them — beginning in Oklahoma, reaching beyond.
+## **Mental health support should never be limited by cost.**  
+*According to Mental Health America* **19.87%** of the population of the United States have a diagnosable mental illness. Approximately **68 MILLION PEOPLE**.
 
 ---
 
