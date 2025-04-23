@@ -7,12 +7,11 @@ layout: default
 </div>
 
 <div class="hero-container">
-  <img id="hero-banner" src="/assets/graphics/hero_banner/lfrf-hero_banner-key.png" class="hero-banner" />
+  <img id="hero-banner" src="/lfrf-mock/assets/graphics/hero_banner/lfrf-hero_banner-key.png" class="hero-banner" />
 </div>
 
-
 <div class="sub-banner-container">
-  <img src="/assets/graphics/sub-banner/lfrf-sub_banner.png"  class="sub-banner" />
+  <img src="/lfrf-mock/assets/graphics/sub-banner/lfrf-sub_banner.png"  class="sub-banner" />
 </div>
 
 ---
@@ -23,10 +22,10 @@ layout: default
 
 ***66%*** of these individuals Cannot afford to pay for Mental Health Service
 
-## In Oklahoma
+## **In Oklahoma**
 that means approximately *500,000* individuals cannot afford Mental Health Services.
 
-## In Lawton / Fort Sill
+## **In Lawton / Fort Sill**
 there are approximately *13,000* individuals cannot afford the Mental health Services they seek.
 
 ---
