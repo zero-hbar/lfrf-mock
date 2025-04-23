@@ -11,6 +11,11 @@ layout: default
   <img src="/lfrf-mock/assets/graphics/sub-banner/lfrf-sub_banner.png"  class="sub-banner" />
 </div>
 
+<div style="text-align:center;">
+  <img src="/lfrf-mock/assets/graphics/sub-banner/lfrf-sub_banner.png" width="600" alt="TEST BANNER" />
+</div>
+
+
 ---
 
 # **According to [Mental Health America](https://mhanational.org/resources/quick-facts-and-statistics-about-mental-health/)**
