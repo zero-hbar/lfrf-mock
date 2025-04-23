@@ -8,11 +8,11 @@ layout: default
 </div>
 
 <div class="sub-banner-container">
-  <img src="/lfrf-mock/assets/graphics/sub-banner/lfrf-sub_banner.png"  class="sub-banner" />
+  <img src="/lfrf-mock/assets/graphics/sub_banner/lfrf-sub_banner.png"  class="sub-banner" />
 </div>
 
 <div style="text-align:center;">
-  <img src="/lfrf-mock/assets/graphics/sub-banner/lfrf-sub_banner.png" width="600" alt="TEST BANNER" />
+  <img src="/lfrf-mock/assets/graphics/sub_banner/lfrf-sub_banner.png" width="600" alt="TEST BANNER" />
 </div>
 
 
