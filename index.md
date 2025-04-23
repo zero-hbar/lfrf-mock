@@ -2,7 +2,6 @@
 title: Let Freedom Reign Foundation
 layout: default
 ---
-
 <div class="hero-container">
   <img id="hero-banner" src="/lfrf-mock/assets/graphics/hero_banner/lfrf-hero_banner-key.png" class="hero-banner" />
 </div>
@@ -10,12 +9,6 @@ layout: default
 <div class="sub-banner-container">
   <img src="/lfrf-mock/assets/graphics/sub_banner/lfrf-sub_banner.png"  class="sub-banner" />
 </div>
-
-<div style="text-align:center;">
-  <img src="/lfrf-mock/assets/graphics/sub_banner/lfrf-sub_banner.png" width="600" alt="TEST BANNER" />
-</div>
-
-
 ---
 
 # **According to [Mental Health America](https://mhanational.org/resources/quick-facts-and-statistics-about-mental-health/)**
