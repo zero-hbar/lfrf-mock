@@ -26,11 +26,11 @@ layout: default
 ## In Oklahoma
 that means approximately *500,000* individuals cannot afford Mental Health Services.
 
-### In Lawton / Fort Sill
+## In Lawton / Fort Sill
 there are approximately *13,000* individuals cannot afford the Mental health Services they seek.
 
 ---
-s
+
 ## How We Help
 
 - We raise funds for direct care services  
