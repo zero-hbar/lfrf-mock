@@ -31,11 +31,11 @@ there are approximately ***13,000*** individuals or families that cannot afford 
 - We partner with Accredited clinics that adhere to strict ethical standards 
 - We advocate for underinsured and uninsured individuals  
 
-> "FREEDOM IS THE ABILITY TO ASK FOR HELP - AND BE HEARD."
+> *"FREEDOM IS THE ABILITY TO ASK FOR HELP - AND BE HEARD."*
 
 ---
 
-## HOW YOU CAN HELP
+# **HOW YOU CAN HELP**
 
 - [ ] Donate via PayPal (embed link or button)  
 - [ ] Share our mission on social media  
