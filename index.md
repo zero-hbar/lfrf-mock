@@ -11,19 +11,17 @@ layout: default
 </div>
 ---
 
-# **According to [Mental Health America](https://mhanational.org/resources/quick-facts-and-statistics-about-mental-health/)**
+# ***According to [Mental Health America](https://mhanational.org/resources/quick-facts-and-statistics-about-mental-health/)***
  
  ***19.87%*** of the population of the United States have a diagnosable mental illness. Approximately **68 MILLION PEOPLE**.
 
 ***66%*** of these individuals Cannot afford to pay for Mental Health Service
 
 ## **In Oklahoma**
-that means approximately *500,000* individuals cannot afford Mental Health Services.
+that means approximately ***500,000*** individuals cannot afford Mental Health Services.
 
 ## **In Lawton / Fort Sill**
-there are approximately *13,000* individuals cannot afford the
-
-Mental Health Services they seek.
+there are approximately ***13,000*** individuals or families that cannot afford the Mental Health Services they seek.
 
 ---
 
@@ -37,7 +35,7 @@ Mental Health Services they seek.
 
 ---
 
-### How You Can Support
+## HOW YOU CAN HELP
 
 - [ ] Donate via PayPal (embed link or button)  
 - [ ] Share our mission on social media  
