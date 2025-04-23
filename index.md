@@ -9,19 +9,16 @@ layout: default
 
 
 <div class="sub-banner-container">
-  <img src="/assets/graphics/sub-banner/lfrf-sub_banner.png" alt="Sub Banner" class="sub-banner" />
+  <img src="/assets/graphics/sub-banner/lfrf-sub_banner.png"  class="sub-banner" />
 </div>
 
-<div style="text-align:center;">
-  <img src="/lfrf-mock/assets/graphics/hero_banner/lfrf-hero_banner-key.png" width="600" alt="TEST BANNER" />
-</div>
 ---
 
-# **According to Mental Health America**
-  [Mental Health America](https://mhanational.org/resources/quick-facts-and-statistics-about-mental-health/)
+# **According to Mental Health America** [Mental Health America](https://mhanational.org/resources/quick-facts-and-statistics-about-mental-health/)
+ 
 ***19.87%*** of the population of the United States have a diagnosable mental illness. Approximately **68 MILLION PEOPLE**.
 
-66% of these individuals Cannot afford to pay for Mental Health Service
+***66%*** of these individuals Cannot afford to pay for Mental Health Service
 
 ---
 
