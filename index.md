@@ -14,8 +14,11 @@ layout: default
 
 ---
 
-## **Mental health support should never be limited by cost.**  
-*According to Mental Health America* **19.87%** of the population of the United States have a diagnosable mental illness. Approximately **68 MILLION PEOPLE**.
+# **According to Mental Health America**
+  [Mental Health America](https://mhanational.org/resources/quick-facts-and-statistics-about-mental-health/)
+***19.87%*** of the population of the United States have a diagnosable mental illness. Approximately **68 MILLION PEOPLE**.
+
+66% of these individuals Cannot afford to pay for Mental Health Service
 
 ---
 
