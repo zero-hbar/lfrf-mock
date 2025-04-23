@@ -3,13 +3,15 @@ title: Let Freedom Reign Foundation
 layout: default
 ---
 
-<p align="center">
-  <img src="/lfrf-mock/assets/Graphics/lfrf_logo-rebalance.png" alt="LFRF Logo" width="200"/>
-</p>
+<div class="hero-container">
+  <img id="hero-banner" src="/assets/graphics/hero_banner/lfrf-hero_banner-key.png" alt="LFRF Hero Banner" class="hero-banner" />
+</div>
 
-<p style="text-align: center; font-size: 2em; font-family: 'Barlow'; font-weight: 700; font-style: italic;">
-  Providing Funds to Help Those Unable to Afford Mental Health Services
-</p>
+<div class="sub-banner-container">
+  <img src="/assets/graphics/sub-banner/lfrf-sub_banner.png" alt="Sub Banner" class="sub-banner" />
+</div>
+
+---
 
 **Mental health support should never be limited by cost.**  
 This site is the home of a mission to fund mental health services for those who cannot afford them — beginning in Oklahoma, reaching beyond.
