@@ -2,6 +2,9 @@
 title: Let Freedom Reign Foundation
 layout: default
 ---
+<div style="text-align:center;">
+  <img src="/lfrf-mock/assets/graphics/hero_banner/lfrf-hero_banner-key.png" width="600" alt="TEST BANNER" />
+</div>
 
 <div class="hero-container">
   <img id="hero-banner" src="/assets/graphics/hero_banner/lfrf-hero_banner-key.png" class="hero-banner" />
