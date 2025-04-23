@@ -23,7 +23,8 @@ layout: default
 that means approximately *500,000* individuals cannot afford Mental Health Services.
 
 ## **In Lawton / Fort Sill**
-there are approximately *13,000* individuals cannot afford the Mental health Services they seek.
+there are approximately *13,000* individuals cannot afford the
+Mental Health Services they seek.
 
 ---
 
