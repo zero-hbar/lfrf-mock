@@ -17,7 +17,7 @@ layout: default
 
 ---
 
-# **According to Mental Health America** [Mental Health America](https://mhanational.org/resources/quick-facts-and-statistics-about-mental-health/)
+# **According to [Mental Health America](https://mhanational.org/resources/quick-facts-and-statistics-about-mental-health/)**
  
  ***19.87%*** of the population of the United States have a diagnosable mental illness. Approximately **68 MILLION PEOPLE**.
 
@@ -30,7 +30,7 @@ that means approximately *500,000* individuals cannot afford Mental Health Servi
 there are approximately *13,000* individuals cannot afford the Mental health Services they seek.
 
 ---
-
+s
 ## How We Help
 
 - We raise funds for direct care services  
