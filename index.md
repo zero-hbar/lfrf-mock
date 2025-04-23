@@ -22,21 +22,22 @@ that means approximately *500,000* individuals cannot afford Mental Health Servi
 
 ## **In Lawton / Fort Sill**
 there are approximately *13,000* individuals cannot afford the
+
 Mental Health Services they seek.
 
 ---
 
-## How We Help
+# **HOW WE HELP**
 
-- We raise funds for direct care services  
-- We partner with CARF-accredited clinics  
+- We provide funds to those unable to afford mental health services
+- We partner with Accredited clinics that adhere to strict ethical standards 
 - We advocate for underinsured and uninsured individuals  
 
-> "Freedom is the ability to ask for help — and be heard."
+> "FREEDOM IS THE ABILITY TO ASK FOR HELP - AND BE HEARD."
 
 ---
 
-## How You Can Support
+### How You Can Support
 
 - [ ] Donate via PayPal (embed link or button)  
 - [ ] Share our mission on social media  
