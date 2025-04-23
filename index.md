@@ -16,17 +16,15 @@ layout: default
 
 # **According to Mental Health America** [Mental Health America](https://mhanational.org/resources/quick-facts-and-statistics-about-mental-health/)
  
-***19.87%*** of the population of the United States have a diagnosable mental illness. Approximately **68 MILLION PEOPLE**.
+ ***19.87%*** of the population of the United States have a diagnosable mental illness. Approximately **68 MILLION PEOPLE**.
 
 ***66%*** of these individuals Cannot afford to pay for Mental Health Service
 
----
+## In Oklahoma
+that means approximately *500,000* individuals cannot afford Mental Health Services.
 
-## Who We Are
-
-We are a network of professionals, community advocates, and survivors who believe in creating access to behavioral health services without financial barriers.
-
-Let Freedom Reign Foundation is a for-purpose initiative aimed at eliminating affordability as an obstacle to mental wellness.
+### In Lawton / Fort Sill
+there are approximately *13,000* individuals cannot afford the Mental health Services they seek.
 
 ---
 
