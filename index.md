@@ -4,8 +4,9 @@ layout: default
 ---
 
 <div class="hero-container">
-  <img id="hero-banner" src="/assets/graphics/hero_banner/lfrf-hero_banner-key.png" alt="LFRF Hero Banner" class="hero-banner" />
+  <img id="hero-banner" src="\assets\graphics\hero_banner\lfrf-hero_banner-key.png" alt="LFRF Hero Banner" class="hero-banner" />
 </div>
+
 
 <div class="sub-banner-container">
   <img src="/assets/graphics/sub-banner/lfrf-sub_banner.png" alt="Sub Banner" class="sub-banner" />
