@@ -13,7 +13,7 @@ layout: default
 
 # ***According to [Mental Health America](https://mhanational.org/resources/quick-facts-and-statistics-about-mental-health/)***
  
- ***19.87%*** of the population of the United States have a diagnosable mental illness. Approximately **68 MILLION PEOPLE**.
+ ***19.87%*** of the population of the United States have a diagnosable mental illness. Approximately ***68 MILLION PEOPLE***.
 
 ***66%*** of these individuals Cannot afford to pay for Mental Health Service
 
