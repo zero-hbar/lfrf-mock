@@ -7,7 +7,7 @@ layout: default
 </div>
 
 <div class="sub-banner-container">
-  <img src="/lfrf-mock/assets/graphics/sub_banner/lfrf-sub-banner.png"  class="sub-banner" />
+  <img src="/lfrf-mock/assets/graphics/sub-banner/lfrf-sub-banner.png"  class="sub-banner" />
 </div>
 ---
 
