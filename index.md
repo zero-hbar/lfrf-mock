@@ -3,7 +3,7 @@ title: Let Freedom Reign Foundation
 layout: default
 ---
 <div class="hero-container">
-  <img id="hero-banner" src="/lfrf-mock/assets/graphics/hero_banner/lfrf-hero_banner-key.png" class="hero-banner" />
+  <img id="hero-banner" src="/lfrf-mock/assets/graphics/hero-banner/lfrf-hero-banner-key.png" class="hero-banner" />
 </div>
 
 <div class="sub-banner-container">
