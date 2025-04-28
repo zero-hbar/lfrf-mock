@@ -119,5 +119,24 @@
   <main>
     {{ content }}
   </main>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const banners = [
+        "/lfrf-mock/assets/graphics/hero-banner/lfrf-hero-banner-key.png",
+        "/lfrf-mock/assets/graphics/hero-banner/lfrf-hero-banner-cyan.png",
+        "/lfrf-mock/assets/graphics/hero-banner/lfrf-hero-banner-magenta.png",
+        "/lfrf-mock/assets/graphics/hero-banner/lfrf-hero-banner-yellow.png"
+      ];
+      
+      const randomIndex = Math.floor(Math.random() * banners.length);
+      const heroImage = document.getElementById("hero-banner");
+      
+      if (heroImage) {
+        heroImage.src = banners[randomIndex];
+      }
+    });
+  </script>
+  
 </body>
 </html>
