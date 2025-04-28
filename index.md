@@ -2,6 +2,8 @@
 title: Let Freedom Reign Foundation
 layout: default
 ---
+<!-- TOP -->
+<div id="top"></div>
 <div class="hero-container">
   <img id="hero-banner" src="/lfrf-mock/assets/graphics/hero-banner/lfrf-hero-banner-key.png" alt="Let Freedom Reign Foundation Banner" class="hero-banner" />
 </div>
