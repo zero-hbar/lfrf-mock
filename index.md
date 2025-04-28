@@ -3,11 +3,11 @@ title: Let Freedom Reign Foundation
 layout: default
 ---
 <div class="hero-container">
-  <img id="hero-banner" src="/lfrf-mock/assets/graphics/hero-banner/lfrf-hero-banner-key.png" class="hero-banner" />
+  <img id="hero-banner" src="/lfrf-mock/assets/graphics/hero-banner/lfrf-hero-banner-key.png" alt="Let Freedom Reign Foundation community hero banner" class="hero-banner" />
 </div>
 
 <div class="sub-banner-container">
-  <img src="/lfrf-mock/assets/graphics/sub-banner/lfrf-sub-banner.png"  class="sub-banner" />
+  <img src="/lfrf-mock/assets/graphics/sub-banner/lfrf-sub-banner.png" alt="Providing Funds to Those Unable to Afford Mental Health Services" class="sub-banner" />
 </div>
 ---
 
