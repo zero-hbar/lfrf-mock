@@ -24,7 +24,8 @@ that means approximately ***500,000*** individuals cannot afford Mental Health S
 there are approximately ***13,000*** individuals or families that cannot afford the Mental Health Services they seek.
 
 ---
-
+<!-- About Section -->
+<div id="about"></div>
 # **HOW WE HELP**
 
 - We provide funds to those unable to afford mental health services
@@ -34,7 +35,8 @@ there are approximately ***13,000*** individuals or families that cannot afford 
 > *"FREEDOM IS THE ABILITY TO ASK FOR HELP - AND BE HEARD."*
 
 ---
-
+<!-- Donate Section -->
+<div id="donate"></div>
 # **HOW YOU CAN HELP**
 
 - [ ] Donate via PayPal (embed link or button)  
@@ -42,7 +44,8 @@ there are approximately ***13,000*** individuals or families that cannot afford 
 - [ ] Nominate a clinic to receive funds  
 
 ---
-
+<!-- Contact Section -->
+<div id="contact"></div>
 ## Get In Touch
 
 Use our [Contact Page](/lfrf-mock/contact) to reach us. We welcome questions, collaborations, and stories.
