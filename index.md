@@ -46,7 +46,7 @@ there are approximately ***13,000*** individuals or families that cannot afford 
 ---
 <!-- Donate Section -->
 <a id="donate"></a>
-<h2 style="text-align: center;">Support Our Mission</h2>
+<h2 style="text-align: center;">SUPPORT OUR MISSION</h2>
 
 <p style="text-align: center; max-width: 600px; margin: 0 auto;">
   Your donation helps us provide mental health services to those who otherwise couldn’t afford them. Every dollar contributes to healing in your community.
@@ -70,8 +70,11 @@ there are approximately ***13,000*** individuals or families that cannot afford 
 <!-- Contact Section -->
 <a id="contact"></a>
 # CONTACT INFORMATION
+
 > **8021 SW DEYO MISSION ROAD**
+
 > **LAWTON, OKLAHOMA 73505**
+
 > **580-351-9998**
 
 <h2 style="text-align: center;">EMAIL US</h2>
