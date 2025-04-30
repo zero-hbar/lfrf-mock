@@ -11,15 +11,15 @@ layout: default
   <a href="#contact" style="margin: 0 1em; font-family: 'Barlow'; font-weight: 700;">Contact</a>
 </div>
 
-# Let Freedom Reign Foundation — Privacy Policy
+# LFRF — PRIVACY POLICY
 
-**Effective Date:** April 2025
+**Effective Date:** *April 2025*
 
 Let Freedom Reign Foundation (LFRF) respects your privacy. This website is designed to collect as little personal information as possible. We do not track you, profile you, or sell your data.
 
 ---
 
-## What We Do (and Don’t) Collect
+## What We Do (and Do Not) Collect
 
 - **No Cookies:**  
   We do not set or use cookies to track visitors.
