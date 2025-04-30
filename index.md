@@ -69,7 +69,7 @@ there are approximately ***13,000*** individuals or families that cannot afford 
 ---
 <!-- Contact Section -->
 <a id="contact"></a>
-# CONTACT INFORMATION ![LFRF Logo](/lfrf-mock/assets/graphics/hero-logo/lfrf-logo-rebalance.png)
+# CONTACT INFORMATION ![LFRF Logo](/lfrf-mock/assets/graphics/hero-logo/lfrf-logo-rebalance-inverse-1.5inch.png)
 > 8021 SW DEYO MISSION ROAD
 LAWTON, OKLAHOMA 73505
 580-351-9998
