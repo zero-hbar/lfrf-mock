@@ -138,10 +138,15 @@
     position: relative;
   }
 
+  html {
+  scroll-behavior: smooth;
+}
+
   </style>
 </head>
 <body> 
-  
+  <a id="top"></a>
+
   <main>
     {{ content }}
   </main>
@@ -152,8 +157,7 @@
         "/lfrf-mock/assets/graphics/hero-banner/lfrf-hero-banner-key.png",
         "/lfrf-mock/assets/graphics/hero-banner/lfrf-hero-banner-cyan.png",
         "/lfrf-mock/assets/graphics/hero-banner/lfrf-hero-banner-magenta.png",
-        "/lfrf-mock/assets/graphics/hero-banner/lfrf-hero-banner-yellow.png"
-      ];
+        "/lfrf-mock/assets/graphics/hero-banner/lfrf-hero-banner-yellow.png"];
       
       const randomIndex = Math.floor(Math.random() * banners.length);
       const heroImage = document.getElementById("hero-banner");
