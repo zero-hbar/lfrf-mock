@@ -67,6 +67,7 @@ there are approximately ***13,000*** individuals or families that cannot afford 
 </div>
 
 ---
+---
 <!-- Contact Section -->
 <a id="contact"></a>
 # CONTACT INFORMATION
