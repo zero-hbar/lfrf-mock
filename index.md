@@ -54,15 +54,15 @@ there are approximately ***13,000*** individuals or families that cannot afford 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem; margin-top: 2rem;">
 
-  <div style="text-align: center;">
-    <img src="/lfrf-mock/assets/graphics/qr/paypal-qr.png" alt="Donate via PayPal QR" width="150" />
-    <p><a href="https://www.paypal.com/donate/?hosted_button_id=2W28XMRRM5CDW&source=qr" target="_blank">Donate via PayPal</a></p>
-  </div>
+  <div class="qr-block" style="text-align: center;">
+  <img src="/lfrf-mock/assets/graphics/qr/paypal-qr.png" alt="Donate via PayPal QR" width="150" />
+  <p><a href="https://www.paypal.com/..." target="_blank">Donate via PayPal</a></p>
+</div>
 
-  <div style="text-align: center;">
-    <img src="/lfrf-mock/assets/graphics/qr/gofundme-qr.png" alt="Donate via GoFundMe QR" width="150" />
-    <p><a href="https://www.gofundme.com/f/support-mental-health-access-in-oklahoma?attribution_id=sl:e9e97bd9-e86a-4b41-b8af-9637c504da35&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=qr_code" target="_blank">Donate via GoFundMe</a></p>
-  </div>
+<div class="qr-block" style="text-align: center;">
+  <img src="/lfrf-mock/assets/graphics/qr/gofundme-qr.png" alt="Donate via GoFundMe QR" width="150" />
+  <p><a href="https://www.gofundme.com/..." target="_blank">Donate via GoFundMe</a></p>
+</div>
 
 </div>
 
