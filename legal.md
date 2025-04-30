@@ -6,51 +6,71 @@ layout: default
 <div id="top"></div>
 
 <div class="nav-links" style="text-align: center; margin-top: -2rem; padding-bottom: 1rem;">
+  <a href="#home" style="margin: 0 1em; font-family: 'Barlow'; font-weight: 700;">Home</a>
   <a href="#about" style="margin: 0 1em; font-family: 'Barlow'; font-weight: 700;">About</a>
   <a href="#donate" style="margin: 0 1em; font-family: 'Barlow'; font-weight: 700;">Donate</a>
   <a href="#contact" style="margin: 0 1em; font-family: 'Barlow'; font-weight: 700;">Contact</a>
 </div>
 
-# LFRF — PRIVACY POLICY
+# LFRF — Legal Disclaimer
 
 **Effective Date:** *April 2025*
 
-Let Freedom Reign Foundation (LFRF) respects your privacy. This website is designed to collect as little personal information as possible. We do not track you, profile you, or sell your data.
+This website is operated by Let Freedom Reign Foundation (LFRF), a nonprofit organization dedicated to providing financial support for mental health services to individuals in need. By accessing this website, you agree to the following terms:
 
 ---
 
-## What We Do (and Do Not) Collect
+## No Medical Advice
 
-- **No Cookies:**  
-  We do not set or use cookies to track visitors.
-
-- **No Analytics or Advertising:**  
-  We do not run third-party tracking scripts, analytics services, or advertising pixels.
-
-- **Contact Form Submissions Only:**  
-  If you voluntarily use our contact form, we collect your name, email address, and message in order to reply. We do not store or share this information.
-
-- **No User Accounts or Logins:**  
-  You do not need to create an account to access any content on our website.
+The content provided on this website is for informational and educational purposes only. LFRF does **not** provide mental health diagnosis, therapy, medical treatment, or crisis intervention. If you are in immediate danger or need professional help, please contact a licensed healthcare provider or call emergency services.
 
 ---
 
-## Infrastructure Notes
+## Informational Use Only
 
-This site is hosted on GitHub Pages and protected via Cloudflare.  
-These platforms may automatically collect basic technical data (such as IP address and browser type) for security and performance purposes. LFRF does not access or use this data.
+The information, graphics, and content on this site are intended to communicate the mission and impact of LFRF. They are **not** intended as a substitute for professional medical, legal, or financial advice.
 
 ---
 
-## Your Rights
+## No Guarantee of Services
 
-You have the right to contact us at any time to inquire about what data (if any) has been submitted through the contact form and request its deletion.
+Submitting a contact form, inquiry, or donation does **not** guarantee funding or eligibility for financial support. LFRF reviews applications and partnerships on a case-by-case basis. Availability of funds is subject to change.
+
+---
+
+## External Links
+
+This site may contain links to third-party websites. These links are provided for convenience only. LFRF does **not** control or endorse the content of these sites and is not responsible for their availability, accuracy, or privacy policies.
+
+---
+
+## Donations
+
+Donations made to LFRF are voluntary and non-refundable. A donation does not create any entitlement to services. LFRF is a 501(c)(3) nonprofit, and donations may be tax-deductible depending on your jurisdiction. Always consult a tax professional for guidance.
+
+---
+
+## Intellectual Property
+
+All text, logos, images, and content on this website are the property of Let Freedom Reign Foundation unless otherwise noted. Reuse or reproduction of content without express permission is prohibited.
+
+---
+
+## Accessibility
+
+LFRF is committed to making its website accessible to as many users as possible. If you encounter a barrier to access, please contact us so we can improve your experience.
+
+---
+
+## Jurisdiction
+
+Let Freedom Reign Foundation is incorporated in the **State of Oklahoma**, United States. Any legal matters arising from use of this site or interactions with the foundation shall fall under the laws and jurisdiction of the State of Oklahoma. While we welcome donations and inquiries from national and international users, all legal obligations are interpreted in accordance with Oklahoma law.
 
 ---
 
 ## Contact
 
-If you have questions about this Privacy Policy, please contact us directly via the contact form on this site.
+For questions about this Legal Disclaimer, please contact us using the contact form on this website.
 
 ---
 
