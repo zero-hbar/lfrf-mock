@@ -52,15 +52,15 @@ there are approximately ***13,000*** individuals or families that cannot afford 
   Your donation helps us provide mental health services to those who otherwise couldn’t afford them. Every dollar contributes to healing in your community.
 </p>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem; margin-top: 2rem;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 3rem; margin-top: 2rem;">
 
   <div class="qr-block" style="text-align: center;">
-  <img src="/lfrf-mock/assets/graphics/qr/paypal-qr.png" alt="Donate via PayPal QR" width="300" />
+  <img src="/lfrf-mock/assets/graphics/qr/paypal-qr.png" alt="Donate via PayPal QR" width="150" />
   <p><a href="https://www.paypal.com/donate/?hosted_button_id=2W28XMRRM5CDW&source=qr" target="_blank">Donate via PayPal</a></p>
 </div>
 
 <div class="qr-block" style="text-align: center;">
-  <img src="/lfrf-mock/assets/graphics/qr/gofundme-qr.png" alt="Donate via GoFundMe QR" width="180" />
+  <img src="/lfrf-mock/assets/graphics/qr/gofundme-qr.png" alt="Donate via GoFundMe QR" width="150" />
   <p><a href="https://www.gofundme.com/f/support-mental-health-access-in-oklahoma/cl/s?lang=en_US&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link&attribution_id=sl%3Ade062269-2c73-44b4-8c86-f023a193d786" target="_blank">Donate via GoFundMe</a></p>
 </div>
 
@@ -70,7 +70,7 @@ there are approximately ***13,000*** individuals or families that cannot afford 
 <!-- Contact Section -->
 <a id="contact"></a>
 # CONTACT INFORMATION
-<h2 style="text-align: center;">ENAIL US</h2>
+<h2 style="text-align: center;">EMAIL US</h2>
 
 <form action="https://formspree.io/f/mvgazyzg" method="POST" style="max-width: 600px; margin: 0 auto;">
   <label for="name">Name</label><br/>
