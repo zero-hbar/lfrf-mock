@@ -56,12 +56,12 @@ there are approximately ***13,000*** individuals or families that cannot afford 
 
   <div class="qr-block" style="text-align: center;">
   <img src="/lfrf-mock/assets/graphics/qr/paypal-qr.png" alt="Donate via PayPal QR" width="150" />
-  <p><a href="https://www.paypal.com/..." target="_blank">Donate via PayPal</a></p>
+  <p><a href="https://www.paypal.com/donate/?hosted_button_id=2W28XMRRM5CDW&source=qr" target="_blank">Donate via PayPal</a></p>
 </div>
 
 <div class="qr-block" style="text-align: center;">
   <img src="/lfrf-mock/assets/graphics/qr/gofundme-qr.png" alt="Donate via GoFundMe QR" width="150" />
-  <p><a href="https://www.gofundme.com/..." target="_blank">Donate via GoFundMe</a></p>
+  <p><a href="https://www.gofundme.com/f/support-mental-health-access-in-oklahoma/cl/s?lang=en_US&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link&attribution_id=sl%3Ade062269-2c73-44b4-8c86-f023a193d786" target="_blank">Donate via GoFundMe</a></p>
 </div>
 
 </div>
