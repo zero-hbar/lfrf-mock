@@ -55,12 +55,12 @@ there are approximately ***13,000*** individuals or families that cannot afford 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem; margin-top: 2rem;">
 
   <div class="qr-block" style="text-align: center;">
-  <img src="/lfrf-mock/assets/graphics/qr/paypal-qr.png" alt="Donate via PayPal QR" width="150" />
+  <img src="/lfrf-mock/assets/graphics/qr/paypal-qr.png" alt="Donate via PayPal QR" width="175" />
   <p><a href="https://www.paypal.com/donate/?hosted_button_id=2W28XMRRM5CDW&source=qr" target="_blank">Donate via PayPal</a></p>
 </div>
 
 <div class="qr-block" style="text-align: center;">
-  <img src="/lfrf-mock/assets/graphics/qr/gofundme-qr.png" alt="Donate via GoFundMe QR" width="150" />
+  <img src="/lfrf-mock/assets/graphics/qr/gofundme-qr.png" alt="Donate via GoFundMe QR" width="175" />
   <p><a href="https://www.gofundme.com/f/support-mental-health-access-in-oklahoma/cl/s?lang=en_US&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link&attribution_id=sl%3Ade062269-2c73-44b4-8c86-f023a193d786" target="_blank">Donate via GoFundMe</a></p>
 </div>
 
@@ -68,7 +68,22 @@ there are approximately ***13,000*** individuals or families that cannot afford 
 
 ---
 <!-- Contact Section -->
-<div id="contact"></div>
-## Get In Touch
+<a id="contact"></a>
+<h2 style="text-align: center;">Contact Us</h2>
 
-Use our [Contact Page](/lfrf-mock/contact) to reach us. We welcome questions, collaborations, and stories.
+<form action="https://formspree.io/f/mvgazyzg" method="POST" style="max-width: 600px; margin: 0 auto;">
+  <label for="name">Name</label><br/>
+  <input type="text" id="name" name="name" required style="width: 100%; padding: 0.5em; margin-bottom: 1em;" />
+
+  <label for="email">Email</label><br/>
+  <input type="email" id="email" name="_replyto" required style="width: 100%; padding: 0.5em; margin-bottom: 1em;" />
+
+  <label for="message">Message</label><br/>
+  <textarea id="message" name="message" rows="5" required style="width: 100%; padding: 0.5em;"></textarea>
+
+  <br/><br/>
+  <button type="submit" style="padding: 0.75em 1.5em; background-color: #222; color: #fff; border: none; border-radius: 4px; font-weight: bold;">
+    Send Message
+  </button>
+</form>
+
