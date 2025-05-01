@@ -18,7 +18,7 @@ layout: default
  
  ***19.87%*** of the population of the United States have a diagnosable mental illness. Approximately ***68 MILLION PEOPLE***.
 
-***66%*** of these individuals Cannot afford to pay for Mental Health Service
+***66%*** of these individuals Cannot afford to pay for Mental Health Service.
 
 ## **In Oklahoma**
 that means approximately ***500,000*** individuals cannot afford Mental Health Services.
@@ -31,9 +31,9 @@ there are approximately ***13,000*** individuals or families that cannot afford 
 <div id="about"></div>
 # **HOW WE HELP**
 
-- We provide funds to those unable to afford mental health services
-- We partner with Accredited clinics that adhere to strict ethical standards 
-- We advocate for underinsured and uninsured individuals  
+- We provide funds to those unable to afford mental health services.
+- We partner with Accredited clinics that adhere to strict ethical standards .
+- We advocate for underinsured and uninsured individuals.  
 
 > *"FREEDOM IS THE ABILITY TO ASK FOR HELP - AND BE HEARD."*
 
@@ -45,7 +45,7 @@ there are approximately ***13,000*** individuals or families that cannot afford 
 ---
 <!-- Donate Section -->
 <a id="donate"></a>
-<h2 style="text-align: center;">SUPPORT OUR MISSION</h2>
+<h1 style="text-align: center;">SUPPORT OUR MISSION</h1>
 
 <p style="text-align: center; max-width: 600px; margin: 0 auto;">
   Your donation helps us provide mental health services to those who otherwise couldn’t afford them. Every dollar contributes to healing in your community.
