@@ -5,10 +5,10 @@ layout: default
 <!-- TOP -->
 <div id="top"></div>
 
-## A Survivor’s Story 
+## *MENTAL HEALTH - ***A SURVIVORS STORY*** 
 ---
 
-**October 20, 2013 my world changed forever due to a very traumatic event in my life.** ***I woke up that morning to a gun pointed my direction.*** My husband shot me 6 times in my torso area and then committed suicide. I immediately went into fight or flight mode and drove over a mile to seek help. Was med flighted to a trauma hospital and spent 7 days in a medical induced coma and went through three surgeries, then was moved to a regular room and on to a skilled therapy center for two weeks.
+**October 20, 2013 my world changed forever due to a very traumatic event in my life.** *I woke up that morning to a gun pointed my direction.* My husband shot me 6 times in my torso area and then committed suicide. I immediately went into fight or flight mode and drove over a mile to seek help. Was med flighted to a trauma hospital and spent 7 days in a medical induced coma and went through three surgeries, then was moved to a regular room and on to a skilled therapy center for two weeks.
 
 Before I was released from the therapy rehab center, I was made to promise to get an appointment with a doctor to help me deal with the emotional and mental effects of the traumatic event. I was very leery of psychiatrists or therapists as they had not helped my husband in my opinion and so they would never be able to help me. A friend recommended Open Arms Behavior Center in Lawton to me and I reluctantly called and started the process of becoming a client. I was diagnosed with PTSD, anxiety, low self-esteem and depression.
 
