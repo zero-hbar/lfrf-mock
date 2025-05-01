@@ -5,12 +5,6 @@ layout: default
 <!-- TOP -->
 <div id="top"></div>
 
-<div class="nav-links" style="text-align: center; margin-top: -2rem; padding-bottom: 1rem;">
-  <a href="#about" style="margin: 0 1em; font-family: 'Barlow'; font-weight: 700;">About</a>
-  <a href="#donate" style="margin: 0 1em; font-family: 'Barlow'; font-weight: 700;">Donate</a>
-  <a href="#contact" style="margin: 0 1em; font-family: 'Barlow'; font-weight: 700;">Contact</a>
-</div>
-
 <div class="hero-container">
   <img id="hero-banner" src="/lfrf-mock/assets/graphics/hero-banner/lfrf-hero-banner-key.png" alt="Let Freedom Reign Foundation Banner" class="hero-banner" />
 </div>
