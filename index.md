@@ -37,6 +37,11 @@ there are approximately ***13,000*** individuals or families that cannot afford 
 
 > *"FREEDOM IS THE ABILITY TO ASK FOR HELP - AND BE HEARD."*
 
+## A MENTAL HEALTH STORY
+> **October 20, 2013 my world changed forever due to a very traumatic event in my life.** ***I woke up that morning to a gun pointed my direction***
+> [Read their full story →](/lfrf-mock/impact-story/)
+
+---
 ---
 <!-- Donate Section -->
 <a id="donate"></a>
