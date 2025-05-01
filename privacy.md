@@ -5,13 +5,6 @@ layout: default
 <!-- TOP -->
 <div id="top"></div>
 
-<div class="nav-links" style="text-align: center; margin-top: -2rem; padding-bottom: 1rem;">
-  <a href="#home" style="margin: 0 1em; font-family: 'Barlow'; font-weight: 700;">Home</a>
-  <a href="#about" style="margin: 0 1em; font-family: 'Barlow'; font-weight: 700;">About</a>
-  <a href="#donate" style="margin: 0 1em; font-family: 'Barlow'; font-weight: 700;">Donate</a>
-  <a href="#contact" style="margin: 0 1em; font-family: 'Barlow'; font-weight: 700;">Contact</a>
-</div>
-
 # LFRF — PRIVACY POLICY
 
 **Effective Date:** *April 2025*
