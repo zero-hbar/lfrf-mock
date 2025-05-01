@@ -5,67 +5,23 @@ layout: default
 <!-- TOP -->
 <div id="top"></div>
 
-# LFRF — Legal Disclaimer
-
-**Effective Date:** *April 2025*
-
-This website is operated by Let Freedom Reign Foundation (LFRF), a nonprofit organization dedicated to providing financial support for mental health services to individuals in need. By accessing this website, you agree to the following terms:
-
+## A Survivor’s Story 
 ---
 
-## No Medical Advice
+**October 20, 2013 my world changed forever due to a very traumatic event in my life.** ***I woke up that morning to a gun pointed my direction.*** My husband shot me 6 times in my torso area and then committed suicide. I immediately went into fight or flight mode and drove over a mile to seek help. Was med flighted to a trauma hospital and spent 7 days in a medical induced coma and went through three surgeries, then was moved to a regular room and on to a skilled therapy center for two weeks.
 
-The content provided on this website is for informational and educational purposes only. LFRF does **not** provide mental health diagnosis, therapy, medical treatment, or crisis intervention. If you are in immediate danger or need professional help, please contact a licensed healthcare provider or call emergency services.
+Before I was released from the therapy rehab center, I was made to promise to get an appointment with a doctor to help me deal with the emotional and mental effects of the traumatic event. I was very leery of psychiatrists or therapists as they had not helped my husband in my opinion and so they would never be able to help me. A friend recommended Open Arms Behavior Center in Lawton to me and I reluctantly called and started the process of becoming a client. I was diagnosed with PTSD, anxiety, low self-esteem and depression.
 
----
+From the moment of the phone call, as I didn’t like telling why I needed to be seen, I was treated with respect and a caring attitude from the staff. Every time I went to be seen, I was greeted and felt like my privacy was respected.
 
-## Informational Use Only
+There were visits of once every week, 2 times a week and sometimes every day for two weeks, but I felt like for the most part I was in control of the decisions on when I needed to be seen with guidance from my counselor.
 
-The information, graphics, and content on this site are intended to communicate the mission and impact of LFRF. They are **not** intended as a substitute for professional medical, legal, or financial advice.
+I had to work through some tough events but with his guidance I made it. We discussed everything from my childhood to what brought me to that event. He helped me overcome fears and to learn to trust people again. I had homework and most of the time I didn’t want to do it but I did and it may have hurt while participating, in the long run it made things being put in perspective in life and learning some coping skills when life wasn’t the way I thought it should be working out.
 
----
+After some time, I felt as it was time that I could cope on my own so I discontinued my visits at the clinic. But when life started kicking me again and I felt as I was losing control – one phone call to the clinic and I was right back where I felt I needed to be.
 
-## No Guarantee of Services
+All the doubts about therapy not working have gone away - as I am a firm believer that seeking help for your mental health is just as important as seeking help for physical health.
 
-Submitting a contact form, inquiry, or donation does **not** guarantee funding or eligibility for financial support. LFRF reviews applications and partnerships on a case-by-case basis. Availability of funds is subject to change.
-
----
-
-## External Links
-
-This site may contain links to third-party websites. These links are provided for convenience only. LFRF does **not** control or endorse the content of these sites and is not responsible for their availability, accuracy, or privacy policies.
-
----
-
-## Donations
-
-Donations made to LFRF are voluntary and non-refundable. A donation does not create any entitlement to services. LFRF is a 501(c)(3) nonprofit, and donations may be tax-deductible depending on your jurisdiction. Always consult a tax professional for guidance.
-
----
-
-## Intellectual Property
-
-All text, logos, images, and content on this website are the property of Let Freedom Reign Foundation unless otherwise noted. Reuse or reproduction of content without express permission is prohibited.
-
----
-
-## Accessibility
-
-LFRF is committed to making its website accessible to as many users as possible. If you encounter a barrier to access, please contact us so we can improve your experience.
-
----
-
-## Jurisdiction
-
-Let Freedom Reign Foundation is incorporated in the **State of Oklahoma**, United States. Any legal matters arising from use of this site or interactions with the foundation shall fall under the laws and jurisdiction of the State of Oklahoma. While we welcome donations and inquiries from national and international users, all legal obligations are interpreted in accordance with Oklahoma law.
-
----
-
-## Contact
-
-For questions about this Legal Disclaimer, please contact us using the contact form on this website.
-
----
 
 <p style="text-align: center; margin-top: 2rem;">
   <a href="/lfrf-mock/">← Return to Homepage</a>
