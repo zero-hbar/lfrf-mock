@@ -45,7 +45,7 @@ there are approximately ***13,000*** individuals or families that cannot afford 
 ---
 <!-- Donate Section -->
 <a id="donate"></a>
-<h1 style="text-align: center;">SUPPORT OUR MISSION</h1>
+<h1 style="text-align: center;">OUR MISSION</h1>
 
 <p style="text-align: center; max-width: 600px; margin: 0 auto;">
   Your donation helps us provide mental health services to those who otherwise couldn’t afford them. Every dollar contributes to healing in your community.
@@ -75,7 +75,7 @@ there are approximately ***13,000*** individuals or families that cannot afford 
 </div>
 
 <!-- LFRF Donation Tracker Block -->
-<h2 style="text-align: center;">Our Progress</h2>
+<h2 style="text-align: center;">MISSION PROGRESS</h2>
 <!-- PROGRESS BAR CONTAINER -->
 <div id="service-progress" style="max-width: 400px; margin: 2rem auto; background: #e0e0e0; border-radius: 10px; height: 20px;">
   <div id="progress-bar" style="width: 0%; background: #5c6bc0; height: 100%; border-radius: 10px; transition: width 1s ease-in-out;"></div>
@@ -99,15 +99,7 @@ there are approximately ***13,000*** individuals or families that cannot afford 
 </script>
 
 <!-- INSTRUCTIONS FOR MAINTAINERS -->
-<!--
-HOW TO UPDATE:
-1. Open index.md
-2. Scroll to the donation section where the PayPal and GoFundMe QR blocks are.
-3. Paste this entire block right AFTER the second QR code block.
-4. Change the "servicesFunded" number inside the <script> tag to the correct total.
-5. Optionally change "goal" if the foundation raises or lowers its funding target.
-
-FUTURE AUTOMATION:
+<!-- FUTURE AUTOMATION:
 - This block is structured to be easily adapted for automation.
 - You can replace the "servicesFunded" and "goal" variables with values pulled from:
   - A CMS field
@@ -115,8 +107,6 @@ FUTURE AUTOMATION:
   - A connected Google Sheet with a public API
   - A server-side variable if integrated into a dynamic site
 -->
-
-
 ---
 ---
 <!-- Contact Section -->
