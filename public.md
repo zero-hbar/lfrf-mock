@@ -70,3 +70,7 @@ These optional sections can provide clarity and trust to the public:
   Email or form link for those requesting more information.
 
 ---
+
+<p style="text-align: center; margin-top: 2rem;">
+  <a href="/lfrf-mock/">← Return to Homepage</a>
+</p>
