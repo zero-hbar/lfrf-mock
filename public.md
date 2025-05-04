@@ -32,10 +32,9 @@ This page contains publicly available and essential information about the govern
 
 ## Legal & Tax Documentation
 
-- **501(c)(3) Charter** [View Charter)](assets/documents/lfrf-5013c-paperwork.pdf)
- *Effective date September 16, 2023
+- **501(c)(3) Charte:r** *Effective date September 16, 2023* [View Charter)](assets/documents/lfrf-5013c-paperwork.pdf)
 
-- **IRS TIN (Tax Identification Number)** *823158104*
+- **IRS TIN (Tax Identification Number):** *823158104*
 > All donations are tax-deductible to the extent allowed by law.
 
 - **IRS Form 990 / 933 Filing**  
