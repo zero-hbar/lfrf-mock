@@ -83,13 +83,13 @@ there are approximately ***13,000*** individuals or families that cannot afford 
 
 <!-- TEXT DISPLAYING PROGRESS COUNT -->
 <p style="text-align: center; font-size: 0.9rem;" id="service-count">
-  10 of 100 services funded
+  0 of 100 services funded
 </p>
 
 <!-- FUTURE AUTOMATION READY SCRIPT -->
 <script>
   document.addEventListener("DOMContentLoaded", function () {
-    const servicesFunded = 10; // <-- UPDATE this value
+    const servicesFunded = 0; // <-- UPDATE this value
     const goal = 100;          // <-- UPDATE this if needed
 
     const percentage = (servicesFunded / goal) * 100;
