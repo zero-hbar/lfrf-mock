@@ -1,4 +1,13 @@
+---
+title: Let Freedom Reign Foundation
+layout: default
+---
+<!-- TOP -->
+<div id="top"></div>
+
 # Let Freedom Reign Foundation — Public Information
+
+**Effective Date:** *April 2025*
 
 This page contains publicly available and essential information about the governance and legal standing of the Let Freedom Reign Foundation (LFRF).
 
@@ -61,5 +70,3 @@ These optional sections can provide clarity and trust to the public:
   Email or form link for those requesting more information.
 
 ---
-
-*Last updated: [Insert Date]*  
