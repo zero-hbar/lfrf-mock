@@ -73,6 +73,48 @@ there are approximately ***13,000*** individuals or families that cannot afford 
    </p>
 </div>
 
+<!-- LFRF Donation Tracker Block -->
+
+<!-- PROGRESS BAR CONTAINER -->
+<div id="service-progress" style="max-width: 400px; margin: 2rem auto; background: #e0e0e0; border-radius: 10px; height: 20px;">
+  <!-- FILLED BAR - will visually grow with JavaScript below -->
+  <div id="progress-bar" style="width: 0%; background: #5c6bc0; height: 100%; border-radius: 10px;"></div>
+</div>
+
+<!-- TEXT DISPLAYING PROGRESS COUNT -->
+<p style="text-align: center; font-size: 0.9rem;" id="service-count">
+  0 of 100 services funded
+</p>
+
+<!-- FUTURE AUTOMATION READY SCRIPT -->
+<script>
+  // Manual entry for now: update this value by hand as needed
+  const servicesFunded = 0; // <-- CHANGE THIS NUMBER to current count
+  const goal = 100;         // <-- CHANGE THIS if goal ever increases
+
+  // Calculates the % of progress and updates the bar + text
+  const percentage = (servicesFunded / goal) * 100;
+  document.getElementById("progress-bar").style.width = percentage + "%";
+  document.getElementById("service-count").innerText = `${servicesFunded} of ${goal} services funded`;
+</script>
+
+<!-- INSTRUCTIONS FOR MAINTAINERS -->
+<!--
+HOW TO UPDATE:
+1. Open index.md
+2. Scroll to the donation section where the PayPal and GoFundMe QR blocks are.
+3. Paste this entire block right AFTER the second QR code block.
+4. Change the "servicesFunded" number inside the <script> tag to the correct total.
+5. Optionally change "goal" if the foundation raises or lowers its funding target.
+
+FUTURE AUTOMATION:
+- This block is structured to be easily adapted for automation.
+- You can replace the "servicesFunded" and "goal" variables with values pulled from:
+  - A CMS field
+  - A remote JSON file (via fetch)
+  - A connected Google Sheet with a public API
+  - A server-side variable if integrated into a dynamic site
+-->
 </div>
 
 ---
