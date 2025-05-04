@@ -33,12 +33,12 @@ This page contains publicly available and essential information about the govern
 ## Legal & Tax Documentation
 
 - **501(c)(3) Charter**  
-  [Download our 501(c)(3) Charter (PDF)](assets/documents/lfrf-5013c-paperwork.pdf)
+  [View our 501(c)(3) Charter (PDF)](assets/documents/lfrf-5013c-paperwork.pdf)
 
 - **IRS TIN (Tax Identification Number)**  
   *823158104*
 
-All donations are tax-deductible to the extent allowed by law.
+> All donations are tax-deductible to the extent allowed by law.
 
 - **IRS Form 990 / 933 Filing**  
   *[Attach or link to document]*
