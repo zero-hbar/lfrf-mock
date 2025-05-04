@@ -72,13 +72,13 @@ there are approximately ***13,000*** individuals or families that cannot afford 
       <small>Every dollar makes a difference.</small>
    </p>
 </div>
+</div>
 
 <!-- LFRF Donation Tracker Block -->
-
+<h2 style="text-align: center;">Our Progress</h2>
 <!-- PROGRESS BAR CONTAINER -->
 <div id="service-progress" style="max-width: 400px; margin: 2rem auto; background: #e0e0e0; border-radius: 10px; height: 20px;">
-  <!-- FILLED BAR - will visually grow with JavaScript below -->
-  <div id="progress-bar" style="width: 0%; background: #5c6bc0; height: 100%; border-radius: 10px;"></div>
+  <div id="progress-bar" style="width: 0%; background: #5c6bc0; height: 100%; border-radius: 10px; transition: width 1s ease-in-out;"></div>
 </div>
 
 <!-- TEXT DISPLAYING PROGRESS COUNT -->
@@ -88,14 +88,14 @@ there are approximately ***13,000*** individuals or families that cannot afford 
 
 <!-- FUTURE AUTOMATION READY SCRIPT -->
 <script>
-  // Manual entry for now: update this value by hand as needed
-  const servicesFunded = 10; // <-- CHANGE THIS NUMBER to current count
-  const goal = 100;         // <-- CHANGE THIS if goal ever increases
+  document.addEventListener("DOMContentLoaded", function () {
+    const servicesFunded = 10; // <-- UPDATE this value
+    const goal = 100;          // <-- UPDATE this if needed
 
-  // Calculates the % of progress and updates the bar + text
-  const percentage = (servicesFunded / goal) * 100;
-  document.getElementById("progress-bar").style.width = percentage + "%";
-  document.getElementById("service-count").innerText = `${servicesFunded} of ${goal} services funded`;
+    const percentage = (servicesFunded / goal) * 100;
+    document.getElementById("progress-bar").style.width = percentage + "%";
+    document.getElementById("service-count").innerText = `${servicesFunded} of ${goal} services funded`;
+  });
 </script>
 
 <!-- INSTRUCTIONS FOR MAINTAINERS -->
@@ -115,7 +115,7 @@ FUTURE AUTOMATION:
   - A connected Google Sheet with a public API
   - A server-side variable if integrated into a dynamic site
 -->
-</div>
+
 
 ---
 ---
