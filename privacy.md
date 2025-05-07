@@ -5,7 +5,7 @@ layout: default
 <!-- TOP -->
 <div id="top"></div>
 
-# LFRF — PRIVACY POLICY
+# LFRF — Privacy Policy
 
 **Effective Date:** *April 2025*
 

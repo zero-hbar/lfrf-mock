@@ -5,7 +5,7 @@ layout: default
 <!-- TOP -->
 <div id="top"></div>
 
-# Let Freedom Reign Foundation — Public Information
+# LFRF — Public Information
 
 **Effective Date:** *April 2025*
 
