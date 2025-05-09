@@ -1,9 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <link rel="icon" type="image/png" href="/lfrf-mock/assets/graphics/hero-favicon/lfrf-solo-32px.png"/>
-  <link rel="icon" href="/lfrf-mock/assets/graphics/hero-favicon/lfrf-solo-32px.png" type="image/png" sizes="48x48"/>
+  
+<!-- Dynamic Favicon Loader: Randomly selects one of five themed icons on page load -->
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const favicons = [
+        'lfrf-mock/assets/graphics/hero-favicon/lfrf-favicon-cyan.png',
+        'lfrf-mock/assets/graphics/hero-favicon/lfrf-favicon-yellow.png',
+        'lfrf-mock/assets/graphics/hero-favicon/lfrf-favicon-magenta.png',
+        'lfrf-mock/assets/graphics/hero-favicon/lfrf-favicon-key.png',
+        'lfrf-mock/assets/graphics/hero-favicon/lfrf-favicon-inverse.png',
+      ];
 
+      // Remove any existing favicons
+      const existingIcons = document.querySelectorAll('link[rel="icon"]');
+      existingIcons.forEach(icon => icon.remove());
+  
+      const randomFavicon = favicons[Math.floor(Math.random() * favicons.length)];
+  
+      const link = document.createElement('link');
+      link.rel = 'icon';
+      link.type = 'image/png';
+      link.href = randomFavicon;
+      link.sizes = '48x48'; // <-- This tells the browser the icon is 48x48
+  
+      document.head.appendChild(link);
+    });
+  </script>
+  
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
