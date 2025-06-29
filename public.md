@@ -69,5 +69,5 @@ These optional sections can provide clarity and trust to the public:
 ---
 
 <p style="text-align: center; margin-top: 2rem;">
-  <a href="/index/">← Return to Homepage</a>
+  <a href="/">← Return to Homepage</a>
 </p>

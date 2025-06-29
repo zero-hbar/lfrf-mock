@@ -1,7 +1,9 @@
 ---
 title: Let Freedom Reign Foundation
 layout: default
+permalink: /impact-story/
 ---
+
 <!-- TOP -->
 <div id="top"></div>
 
@@ -24,7 +26,7 @@ All the doubts about therapy not working have gone away - as I am a firm believe
 
 
 <p style="text-align: center; margin-top: 2rem;">
-  <a href="/index/">← Return to Homepage</a>
+  <a href="/">← Return to Homepage</a>
 </p>
 
 
