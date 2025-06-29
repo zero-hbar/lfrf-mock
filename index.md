@@ -38,10 +38,8 @@ there are approximately ***13,000*** individuals or families that cannot afford 
 > *"FREEDOM IS THE ABILITY TO ASK FOR HELP - AND BE HEARD."*
 
 ## *MENTAL HEALTH IMPACT* - **A SURVIVORS STORY**
-> **October 20, 2013 my world changed forever due to a very traumatic event in my life.** *I woke up that morning to a gun pointed my direction.* My husband shot me 6 times in my torso area and then committed suicide. I immediately went into fight or flight mode and drove over a mile to seek help. Was med flighted to a trauma hospital and spent 7 days in a medical induced coma and went through three surgeries, then was moved to a regular room and on to a skilled therapy center for two weeks.
-<p style="text-align: center; margin-top: 2rem;">
-  <a href="/index">Read Full Story -></a>
-</p>
+> **October 20, 2013 my world changed forever due to a very traumatic event in my life.** *I woke up that morning to a gun pointed my direction.* My husband shot me 6 times in my torso area and then committed suicide. I immediately went into fight or flight mode and drove over a mile to seek help. Was med flighted to a trauma hospital and spent 7 days in a medical induced coma and went through three surgeries, then was moved to a regular room and on to a skilled therapy center for two weeks. <a href="/impact-story">Read Their Full Story -></a>
+
 
 ---
 <!-- Donate Section -->
