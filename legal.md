@@ -68,7 +68,7 @@ For questions about this Legal Disclaimer, please contact us using the contact f
 ---
 
 <p style="text-align: center; margin-top: 2rem;">
-  <a href="/lfrf/">← Return to Homepage</a>
+  <a href="/lfrf-mock/">← Return to Homepage</a>
 </p>
 
 

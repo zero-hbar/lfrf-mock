@@ -24,7 +24,7 @@ All the doubts about therapy not working have gone away - as I am a firm believe
 
 
 <p style="text-align: center; margin-top: 2rem;">
-  <a href="/lfrf/">← Return to Homepage</a>
+  <a href="/lfrf-mock/">← Return to Homepage</a>
 </p>
 
 

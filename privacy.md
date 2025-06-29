@@ -49,7 +49,7 @@ If you have questions about this Privacy Policy, please contact us directly via 
 ---
 
 <p style="text-align: center; margin-top: 2rem;">
-  <a href="/lfrf/">← Return to Homepage</a>
+  <a href="/lfrf-mock/">← Return to Homepage</a>
 </p>
 
 
