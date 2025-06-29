@@ -6,11 +6,11 @@ layout: default
 <div id="top"></div>
 
 <div class="hero-container">
-  <img id="hero-banner" src="/lfrf-mock/assets/graphics/hero-banner/lfrf-hero-banner-key.png" alt="Let Freedom Reign Foundation Banner" class="hero-banner" />
+  <img id="hero-banner" src="/lfrf/assets/graphics/hero-banner/lfrf-hero-banner-key.png" alt="Let Freedom Reign Foundation Banner" class="hero-banner" />
 </div>
 
 <div class="sub-banner-container">
-  <img src="/lfrf-mock/assets/graphics/sub-banner/lfrf-sub-banner.png" alt="Providing Funds to Those Unable to Afford Mental Health Services" class="sub-banner" />
+  <img src="/lfrf/assets/graphics/sub-banner/lfrf-sub-banner.png" alt="Providing Funds to Those Unable to Afford Mental Health Services" class="sub-banner" />
 </div>
 ---
 
@@ -55,7 +55,7 @@ there are approximately ***13,000*** individuals or families that cannot afford 
 
 <!-- PayPal Block -->
   <div class="qr-block" style="text-align: center;">
-  <img src="/lfrf-mock/assets/graphics/qr/paypal-qr.png" alt="Donate via PayPal QR" width="150" />
+  <img src="/lfrf/assets/graphics/qr/paypal-qr.png" alt="Donate via PayPal QR" width="150" />
   <p><a href="https://www.paypal.com/donate/?hosted_button_id=2W28XMRRM5CDW&source=qr" target="_blank">Donate via PayPal</a></p>
   <p style="max-width: 300px; margin: 0 auto; font-size: 0.9rem;">
       <em>Support long-term healing with a one-time or recurring donation.</em><br>
@@ -65,7 +65,7 @@ there are approximately ***13,000*** individuals or families that cannot afford 
 
   <!-- GoFundMe Block -->
 <div class="qr-block" style="text-align: center;">
-  <img src="/lfrf-mock/assets/graphics/qr/gofundme-qr.png" alt="Donate via GoFundMe QR" width="150" />
+  <img src="/lfrf/assets/graphics/qr/gofundme-qr.png" alt="Donate via GoFundMe QR" width="150" />
   <p><a href="https://www.gofundme.com/f/support-mental-health-access-in-oklahoma/cl/s?lang=en_US&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link&attribution_id=sl%3Ade062269-2c73-44b4-8c86-f023a193d786" target="_blank">Donate via GoFundMe</a></p>
   <p style="max-width: 300px; margin: 0 auto; font-size: 0.9rem;">
       <em>Help us reach $10,000 to begin funding therapy in your community.</em><br>

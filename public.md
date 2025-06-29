@@ -69,5 +69,5 @@ These optional sections can provide clarity and trust to the public:
 ---
 
 <p style="text-align: center; margin-top: 2rem;">
-  <a href="/lfrf-mock/">← Return to Homepage</a>
+  <a href="/lfrf/">← Return to Homepage</a>
 </p>
