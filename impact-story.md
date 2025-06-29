@@ -24,7 +24,7 @@ All the doubts about therapy not working have gone away - as I am a firm believe
 
 
 <p style="text-align: center; margin-top: 2rem;">
-  <a href="index.md">← Return to Homepage</a>
+  <a href="/index/">← Return to Homepage</a>
 </p>
 
 

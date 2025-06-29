@@ -68,7 +68,7 @@ For questions about this Legal Disclaimer, please contact us using the contact f
 ---
 
 <p style="text-align: center; margin-top: 2rem;">
-  <a href="index.md">← Return to Homepage</a>
+  <a href="/index/">← Return to Homepage</a>
 </p>
 
 
