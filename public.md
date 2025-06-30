@@ -32,7 +32,7 @@ This page contains publicly available and essential information about the govern
 
 ## Legal & Tax Documentation
 
-- **501(c)(3) Charte:r** *Effective date September 16, 2023* <a href="/assets/documents/lfrf-5013c-paperwork.pdfimpact-story">View Charter</a>
+- **501(c)(3) Charte:r** *Effective date September 16, 2023* <a href="/assets/documents/lfrf-5013c-paperwork.pdf">View Charter</a>
 - **IRS TIN (Tax Identification Number):** *823158104*
 
 - **IRS Form 990 / 933 Filing** *[Attach or link to document]*
