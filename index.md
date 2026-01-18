@@ -62,10 +62,10 @@ there are approximately ***13,000*** individuals or families that cannot afford 
     </p>
 </div>
 
-  <!-- GoFundMe Block -->
+  <!-- MAIL  Block -->
 <div class="qr-block" style="text-align: center;">
-  <img src="/assets/graphics/qr/gofundme-qr.png" alt="Donate via GoFundMe QR" width="150" />
-  <p><a href="https://www.gofundme.com/f/support-mental-health-access-in-oklahoma/cl/s?lang=en_US&utm_campaign=fp_sharesheet&utm_medium=customer&utm_source=copy_link&attribution_id=sl%3Ade062269-2c73-44b4-8c86-f023a193d786" target="_blank">Donate NO LONGER ACTIVE</a></p>
+  <img src="/assets/graphics/qr/gofundme-qr.png" alt="Donate via Mail" width="150" />
+  <p><a>Send Check or Money Order to:</a></p>
   <p style="max-width: 300px; margin: 0 auto; font-size: 0.9rem;">
       <em>testing.</em><br>
       <small>Every dollar makes a difference.</small>
