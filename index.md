@@ -64,11 +64,11 @@ there are approximately ***13,000*** individuals or families that cannot afford 
 
   <!-- MAIL  Block -->
 <div class="qr-block" style="text-align: center;">
-  <img src="/assets/graphics/qr/gofundme-qr.png" alt="Donate via Mail" width="150" />
-  <p><a>Send Check or Money Order to:</a></p>
+  <img src="/assets/graphics/other/donation-photo.jpeg" alt="Donate via Mail" width="150" />
+  <p><a>Visit locations we contract with and donate in person:</a></p>
   <p style="max-width: 300px; margin: 0 auto; font-size: 0.9rem;">
       <em>testing.</em><br>
-      <small>Every dollar makes a difference.</small>
+      <small>Every dollar makes a difference towards someone's mental health.</small>
    </p>
 </div>
 </div>
