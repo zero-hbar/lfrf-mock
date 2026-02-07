@@ -64,7 +64,7 @@ there are approximately ***13,000*** individuals or families that cannot afford 
 
   <!-- MAIL  Block -->
 <div class="qr-block" style="text-align: center;">
-  <img src="/assets/graphics/other/donation-photo.jpeg" alt="Donate via Mail" width="150" />
+  <img src="/assets/graphics/other/donation-photo.jpg" alt="Donate via Mail" width="150" />
   <p><a>Visit locations we contract with and donate in person:</a></p>
   <p style="max-width: 300px; margin: 0 auto; font-size: 0.9rem;">
       <p><a href="https://www.openarmsbehavioralhealth.com/" target="_blank">Open Arms Behavioral Health</a></p>
